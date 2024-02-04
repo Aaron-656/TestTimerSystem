@@ -1,0 +1,2 @@
+always_on_top:1
+dark_mode:1
